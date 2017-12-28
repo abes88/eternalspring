@@ -13,3 +13,10 @@ body {
     padding-top: 56px;
   }
 }
+header.jumbotron.my-4 {
+  height: 50vh;
+  min-height: 300px;
+  background-image: url('../images/services/cover.jpeg'); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
